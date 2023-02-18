@@ -3,6 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+package.json
+package-lock.json
 
 # Other files and folders
 .settings/
